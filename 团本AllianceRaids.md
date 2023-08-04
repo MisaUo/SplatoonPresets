@@ -6,6 +6,7 @@
 ```
 
 （二选一）官库单个复制
+
 Boss1-钢铁月环
 ```
 ~Lv2~{"Name":"Boss1-钢铁月环","Group":"喜悦神域欧芙洛绪涅","ZoneLockH":[1118],"ElementsL":[{"Name":"钢铁1","type":1,"radius":5.0,"color":1191175936,"refActorNPCNameID":12065,"refActorRequireCast":true,"refActorCastId":[32794],"refActorComparisonType":6,"includeHitbox":true,"Filled":true},{"Name":"钢铁2","type":1,"radius":5.0,"color":3372154886,"thicc":4.0,"refActorNPCNameID":12065,"refActorRequireCast":true,"refActorCastId":[32794],"refActorComparisonType":6,"includeHitbox":true},{"Name":"月环1","type":1,"radius":5.0,"Donut":5.0,"color":2516615935,"overlayBGColor":1677721600,"thicc":4.0,"overlayText":"月环","refActorNPCNameID":12065,"refActorRequireCast":true,"refActorCastId":[32792],"FillStep":0.2,"refActorComparisonType":6,"includeHitbox":true},{"Name":"月环1","type":1,"radius":5.0,"color":3355459583,"overlayBGColor":1677721600,"thicc":4.0,"overlayText":"月环","refActorNPCNameID":12065,"refActorRequireCast":true,"refActorCastId":[32792],"FillStep":0.2,"refActorComparisonType":6,"includeHitbox":true}]}
